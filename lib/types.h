@@ -4,8 +4,8 @@
  * vim:ts=4 noexpandtab
  */
 
-#ifndef _TYPES_H
-#define _TYPES_H
+#ifndef _LIB_TYPES_H
+#define _LIB_TYPES_H
 
 #define NULL 0
 
@@ -23,4 +23,4 @@ typedef unsigned char uint8_t;
 
 #endif /* ASM */
 
-#endif /* _TYPES_H */
+#endif /* _LIB_TYPES_H */

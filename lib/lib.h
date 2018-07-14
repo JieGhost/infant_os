@@ -2,10 +2,10 @@
  * vim:ts=4 noexpandtab
  */
 
-#ifndef _LIB_H
-#define _LIB_H
+#ifndef _LIB_LIB_H
+#define _LIB_LIB_H
 
-#include "types.h"
+#include "lib/types.h"
 
 void test_interrupts(void);
 
@@ -144,4 +144,4 @@ do {                                    \
 			);                      \
 } while(0)
 
-#endif /* _LIB_H */
+#endif /* _LIB_LIB_H */
